@@ -12,6 +12,7 @@
   
   ```bash
   npx create-react-app react-project
+  ```
 
 ## Favicon 세팅
 
